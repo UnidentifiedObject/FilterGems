@@ -56,7 +56,7 @@ def search_mods():
         "limit": limit
     }
 
-    headers = {"User-Agent": "HiddenGemHunter/1.6"}
+    headers = {"User-Agent": "UnidentifiedObject/FilterGems/1.6"}
 
     try:
         response = requests.get("https://api.modrinth.com/v2/search", params=params, headers=headers)
@@ -77,4 +77,5 @@ def search_mods():
 
 
 if __name__ == "__main__":
+
     search_mods()
