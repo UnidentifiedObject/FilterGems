@@ -9,7 +9,7 @@ On the Modrinth website, you can usually only sort by "Most Downloads." This mak
 1. Download this repository.
 2. Run `pip install -r requirements.txt` in your terminal.
 3. **Windows Users:** Simply double-click `RunFilterGems.bat`.
-4. **Other Users:** Run `python gem_hunter.py`.
+4. **Other Users:** Run `python main.py`.
 
 ---
 
@@ -24,7 +24,7 @@ Modrinth web sitesinde genellikle sadece "En Çok İndirilenler"e göre sıralam
 1. Bu depoyu indirin.
 2. Terminalinizde `pip install -r requirements.txt` komutunu çalıştırın.
 3. **Windows Kullanıcıları:** `RunFilterGems.bat` dosyasına çift tıklayarak çalıştırabilir.
-4. **Diğer Kullanıcılar:** `python gem_hunter.py` komutunu kullanabilir.
+4. **Diğer Kullanıcılar:** `python main.py` komutunu kullanabilir.
 
 ---
 **Disclaimer:** This is a simple personal project. It is an unofficial tool and is not affiliated with Modrinth.
